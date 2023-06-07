@@ -1,5 +1,5 @@
 # Alurabook
-Projeto feito durante o curso de HTML e CSS: resposividade com mobile first da Alura
+Projeto feito durante o curso de HTML e CSS: responsividade com mobile first da Alura.
 
 ## Para visualizar o projeto:
 Acesse o link <a href="https://larifar.github.io/Alurabook/">aqui</a>.
